@@ -1,0 +1,4 @@
+pet Rover {
+    type = "Dog";
+};
+
